@@ -12,4 +12,5 @@ pour les bonnes pratiques, on va integrer la notion de revu de code.
 
 # codeur pro explid
 
-explication des branches aves codeur pro
+explication des branches aves codeur pro.
+j'essai de capter sa methode.
